@@ -1,0 +1,351 @@
+# Translation of Themes - Cassions in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Cassions package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-28 04:46:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Cassions\n"
+
+#. Description of the theme
+msgid "Cassions is a clean, simple responsive magazine theme for WordPress, packed with a lot of features like: featured posts, sticky menu, custom widgets and many others."
+msgstr "Cassions es un tema de revista para WordPress simple, limpio y resonsivo. Incluye muchas funciones como: publicaciones destacadas,  menú fijo,  widgets personalizados y mucho más."
+
+#. Theme Name of the theme
+msgid "Cassions"
+msgstr "Cassions"
+
+#: inc/template-tags.php:171
+msgid "says:"
+msgstr "dice:"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página de ancho total"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#: template-parts/content-single.php:42
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#: template-parts/content-single.php:40
+msgid "Next article"
+msgstr "Próximo artículo"
+
+#: template-parts/content-single.php:39
+msgid "Previous article"
+msgstr "Artículo anterior"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:31
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizás otra búsqueda pueda ayudar."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento,  pero nada coincide con los términos de tu búsqueda. Por favor,  intentá con palabras claves diferentes."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás listo para publicar tu primer entrada? <a href=\"%1$s\">Empezá acá</a>"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: inc/widgets/recent-post.php:109
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/widgets/recent-post.php:108
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/widgets/recent-post.php:106
+msgid "Order"
+msgstr "Ordenar"
+
+#: inc/widgets/recent-post.php:103
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/widgets/recent-post.php:102
+msgid "Comment count"
+msgstr "cuenta de comentarios"
+
+#: inc/widgets/recent-post.php:100
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/widgets/recent-post.php:98
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: inc/widgets/recent-post.php:93
+msgid "Number of photos"
+msgstr "Número de fotos"
+
+#: inc/widgets/recent-post.php:88 inc/widgets/recent-post.php:101
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/recent-post.php:30 inc/widgets/recent-post.php:77
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/widgets/recent-post.php:19
+msgid "Displays recent posts."
+msgstr "Mostrar entradas recientes."
+
+#: inc/widgets/recent-post.php:16
+msgid "Cassions Posts"
+msgstr "Entradas de Cassions"
+
+#: inc/widgets/block_4_widget.php:11
+msgid "WPS Block 4"
+msgstr "WPS Block 4"
+
+#: inc/widgets/block_3_widget.php:11
+msgid "WPS Block 3"
+msgstr "WPS Block 3"
+
+#: inc/widgets/block_2_widget.php:11
+msgid "WPS Block 2"
+msgstr "WPS Block 2"
+
+#: inc/widgets/block_1_widget.php:269 inc/widgets/block_2_widget.php:248
+#: inc/widgets/block_3_widget.php:242 inc/widgets/block_4_widget.php:204
+msgid "Order By:"
+msgstr "Ordenar por."
+
+#: inc/widgets/block_1_widget.php:261 inc/widgets/block_2_widget.php:240
+#: inc/widgets/block_3_widget.php:234 inc/widgets/block_4_widget.php:196
+msgid "Order:"
+msgstr "Ordenar:"
+
+#: inc/widgets/block_1_widget.php:258 inc/widgets/block_2_widget.php:237
+#: inc/widgets/block_3_widget.php:231 inc/widgets/block_4_widget.php:193
+msgid "Ignore Sticky Posts"
+msgstr "Ignorar entradas fijadas"
+
+#: inc/widgets/block_1_widget.php:251 inc/widgets/block_2_widget.php:230
+#: inc/widgets/block_3_widget.php:224 inc/widgets/block_4_widget.php:186
+msgid "Number of posts to show:"
+msgstr "Número de entradas a mostrar:"
+
+#: inc/widgets/block_1_widget.php:244 inc/widgets/block_2_widget.php:223
+#: inc/widgets/block_3_widget.php:217 inc/widgets/block_4_widget.php:179
+msgid "All"
+msgstr "Todo"
+
+#: inc/widgets/block_1_widget.php:242 inc/widgets/block_2_widget.php:221
+#: inc/widgets/block_3_widget.php:215 inc/widgets/block_4_widget.php:177
+msgid "Block Category:"
+msgstr "Bloque de categorías:"
+
+#: inc/widgets/block_1_widget.php:238 inc/widgets/block_2_widget.php:217
+#: inc/widgets/block_3_widget.php:211 inc/widgets/block_4_widget.php:173
+msgid "Widget Title:"
+msgstr "Título de widget:"
+
+#: inc/widgets/block_1_widget.php:12
+msgid "WPS Block 1"
+msgstr "WPS Block 1"
+
+#: inc/widgets/block_1_widget.php:11 inc/widgets/block_2_widget.php:10
+#: inc/widgets/block_3_widget.php:10 inc/widgets/block_4_widget.php:10
+msgid "Display posts use on homepage."
+msgstr "Mostrar uso de entradas en página de inicio."
+
+#: inc/template-tags.php:228
+msgid "Cassions Theme by %1$s"
+msgstr "Tema Cassions por %1$s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:175
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: inc/template-tags.php:166
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando moderación."
+
+#: inc/template-tags.php:152
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:152
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: %s: post title
+#: inc/template-tags.php:97
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dejá un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:90
+msgid "Tags: %1$s"
+msgstr "Etiquetas: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:82 inc/template-tags.php:88
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28 inc/template-tags.php:61
+msgctxt "post date"
+msgid "on %s"
+msgstr "en %s"
+
+#: inc/customizer.php:40
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: inc/customizer.php:29
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: functions.php:217
+msgid "Footer"
+msgstr "Pié de página"
+
+#: functions.php:207
+msgid "Home 4"
+msgstr "Página de inicio 4"
+
+#: functions.php:197
+msgid "Home 3"
+msgstr "Página de inicio 3"
+
+#: functions.php:187
+msgid "Home 2"
+msgstr "Página de inicio 2"
+
+#: functions.php:177
+msgid "Home 1"
+msgstr "Página de inicio 1"
+
+#: functions.php:169 functions.php:179 functions.php:189 functions.php:199
+#: functions.php:209 functions.php:219
+msgid "Add widgets here."
+msgstr "Agregá widgets acá."
+
+#: functions.php:167
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:136
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "sin subconjunto"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:128
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:75
+msgid "Social Icon"
+msgstr "Icono social"
+
+#: functions.php:74
+msgid "Primary"
+msgstr "Primario"
+
+#: footer.php:31
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Todos los derechos reservados."
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Últimos comentarios"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Comentarios antiguos"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Respuesta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Repuestas a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una  respuesta a &ldquo;%s&rdquo;"
+
+#: archive.php:55 home.php:49 search.php:56
+msgid "Page"
+msgstr "Página"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intentá buscando en los archivos mensuales. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no encontramos nada acá. Probá con los  enlaces  de abajo o una búsqueda nueva."
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Oops! No podemos encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://www.famethemes.com/"
+msgstr "https://www.famethemes.com/"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "FameThemes"
